@@ -133,7 +133,7 @@ export const appData = {
   logs: [
     ['09:42', 'Fingerprint verified', 'github.com'],
     ['09:41', 'Key connected', 'USB port 2'],
-    ['Yesterday', 'Fingerprint verified', 'accounts.google.com'],
+    ['Yesterday', 'Fingerprint verified', 'google.com'],
     ['Yesterday', 'Account added', 'dropbox.com'],
   ],
   updates: [
